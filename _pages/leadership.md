@@ -17,5 +17,5 @@ permalink: /leadership/
 - Scaled the E-Cell into a 50-member active community, building its structure, recruiting core teams, and designing programs that encouraged student-led ventures, idea validation, and early experimentation.
 - Organized high-impact guest sessions featuring Dr. Saji Varghese (Founder of Sunbird Straws) and inviting guests like Nithin Kamath, giving students direct exposure to founders who built from first principles and challenged conventional career path
 
-![Nithin Kamath](/assets/images/nithin.png)
+(/assets/images/nithin.png)
 
