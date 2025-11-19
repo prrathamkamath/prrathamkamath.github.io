@@ -1,10 +1,10 @@
 # ----------------------------------------------------------
 # Basic Site Settings
 # ----------------------------------------------------------
-title: "Prahalad Atreyaa"
+title: "Prratham Kamat"
 description: "A simplified yet classic personal website using Jekyll + Minimal Mistakes"
 # If your repository is named <username>.github.io, set:
-url: "https://prahaladatreyaa.github.io"
+url: "https://prrathamkamath.github.io"
 baseurl: ""
 # If your site is hosted at https://<username>.github.io/my-site, set:
 # url: "https://<username>.github.io"
@@ -36,18 +36,15 @@ minimal_mistakes_skin: "default"
 # Site Author Details
 # ----------------------------------------------------------
 author:
-  name: "Prahalad Atreyaa"
+  name: "Prratham Kamat"
   avatar: "/assets/images/prahalad_dp.jpg"
   bio: "Senior Software Engineer with 5 years of experience in back-end software development and research roles, specializing in Java, Python, and JavaScript stacks."
   location: "India"
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/prahaladatreyaa"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/prahaladatreyaaa/"
-    - label: "Google Scholar"
+      url: "https://www.linkedin.com/in/prrathamkamat/"
+    - label: "X"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=EzpQM1sAAAAJ&hl=en"
     # Add more links (Twitter, Google Scholar, etc.) as desired
@@ -63,8 +60,8 @@ author:
 #       url: /
 #     - title: "About"
 #       url: /about/
-#     - title: "Research"
-#       url: /research/
+#     - title: "Blogs"
+#       url: /blogs/
 
 # header:
 #   nav: site.data.navigation.main

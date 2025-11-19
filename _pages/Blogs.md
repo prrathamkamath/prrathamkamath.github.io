@@ -1,6 +1,6 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Blogs"
+permalink: /blogs/
 ---
 
 ## Research Interests
