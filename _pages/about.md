@@ -7,12 +7,12 @@ author_profile: true
 
 ## About Me
 
-Hello! I’m **Prahalad Atreyaa**, and here’s a bit about my background:
+Hello! I’m **Prratham Kamath**, and here’s a bit about my background:
 
-- **Education**: BE (Hons) Electrical and Electronics Engineering & MSc (Hons) Mathematics at BITS Pilani.
-- **Experience**: 5.5+ years in Back-end software development, research roles and internships.
-- **Interests**: Machine Learning, Artificial Intelligence, Large language models, Distributed systems, Cloud computing, Genetic algorithms, evolutionary computation, Genomics, and Personalized medicine.
+- **Education**: BA Economics from Christ University (Central Campus)
+- **Experience**: 2+ years in Marketing, business development & outreach and internships.
+- **Interests**: Business, Marketing
 
-I’m passionate about building products & technologies that make a positive impact in society.
+I’m passionate about helping startups grow through brand building.
 
-In my free time, I enjoy playing football (soccer) and badminton, gymming, and doing yoga.
+In my free time, I am a long distance runner, rock climbing and gyming.
